@@ -71,7 +71,7 @@ async def cb_handler(client, query: CallbackQuery):
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup([[
                 #⚠️ don't change source code & source link ⚠️ #
-                InlineKeyboardButton("❣️ Movies Channel ", url="https://t.me/MoviesDude_Linkzz")
+                InlineKeyboardButton("❣️ Movies Channel ", url="https://t.me/Team_MDL")
                 ],[
                 InlineKeyboardButton("❤️‍🔥 Update Channel ❤️‍🔥", url='https://t.me/MD_bots')
                 ],[
@@ -85,7 +85,7 @@ async def cb_handler(client, query: CallbackQuery):
             disable_web_page_preview = True,
             reply_markup=InlineKeyboardMarkup([[
                 #⚠️ don't change source code & source link ⚠️ #
-                InlineKeyboardButton("❣️ Movies Channel ", url="https://t.me/MoviesDude_Linkzz")
+                InlineKeyboardButton("❣️ Movies Channel ", url="https://t.me/Team_MDL")
                 ],[
                 InlineKeyboardButton("❤️‍🔥 Update Channel ❤️‍🔥", url='https://t.me/MD_bots')
                 ],[
@@ -99,7 +99,7 @@ async def cb_handler(client, query: CallbackQuery):
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup([[
                 #⚠️ don't change source code & source link ⚠️ #
-                InlineKeyboardButton("❣️ Movies Channel ", url="https://t.me/MoviesDude_Linkzz")
+                InlineKeyboardButton("❣️ Movies Channel ", url="https://t.me/Team_MDL")
                 ],[
                 InlineKeyboardButton("❤️‍🔥 Update Channel ❤️‍🔥", url='https://t.me/MD_bots')
                 ],[
